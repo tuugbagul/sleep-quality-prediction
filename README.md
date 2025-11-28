@@ -50,7 +50,6 @@ Key preprocessing steps include:
 - Encoding categorical features  
 - Normalizing continuous variables  
 - Detecting & analyzing outliers  
-- Splitting data into training/test sets  
 
 ---
 
